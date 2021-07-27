@@ -30,8 +30,10 @@ CERTIFICATION: Green Belt Six Sigma (2019)
   ----
     Social & Scientific Systems						                       	  		          Durham, NC	
   **Laboratory Technician/Support II					                        	         May 2019-Present** 
+  
     Precision Fabric Group | Viking LLC					 		                            Greensboro, NC | Jamestown, NC 
   **Chemistry QC Tech. III | QC Tech. 					                       	        Feb 2014-Apr 2016 | Jul 2013-Jan 2014** 
+  
      Solstas Lab Partners											                                       Greensboro, NC	
   **LAB TECHNICIAN/ SPECIMEN PROCESSOR						                               July 2011-July 2013**
     
