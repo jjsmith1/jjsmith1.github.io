@@ -2,48 +2,58 @@
 
 <html>
 <body>
-<h1> Jarricka Smith </h1>
-<h2> 1221 Canyon Rock Court, Raleigh, NC, 27610	</h2>
-<h3> (910) 658-1995| smithjarricka1121@gmail.com </h3>
-<a href="https://www.linkedin.com/in/jarricka-smith?" target="_blank"> </a>
-<p>
-  <h5> **Education**</h5>
-<ul>
-  
-<li> 
-North Carolina A&T State University, 						       Greensboro, NC 
-B.S. Biology (Cum Laude) 	                  						       May, 2011
-</li>
-<li>
-North Carolina Central University, 						      	       Durham, NC
-B.S.  Athletic Training (Sum Cum Laude)						        May, 2019
-</li>
-<li> 
-North Carolina A&T State University, 						       Greensboro, NC
+# Jarricka Smith #
+** 1221 Canyon Rock Court, Raleigh, NC, 27610	**
+**(910) 658-1995| smithjarricka1121@gmail.com **
+[jarricka smith](https://www.linkedin.com/in/jarricka-smith?)
+
+## **Education**##
+
+North Carolina A&T State University, 						                                Greensboro, NC 
+B.S. Biology (Cum Laude) 	                  						                        May, 2011
+
+North Carolina Central University, 						      	                          Durham, NC
+B.S.  Athletic Training (Sum Cum Laude)						                              May, 2019
+ 
+North Carolina A&T State University, 						                                Greensboro, NC
 M.S. Technology Management (Information Technology) Cybersecurity certification May, 2021
-</li>
-<li>
-Green Belt Six Sigma (2019)
-</li>
-</ul>
-</p>
-<p> 
-  <h3> **Projects** </h3>
-  <ul>
-    <li> Code analysis and review </li>
-    <li> Threat modeling </li>
-    <li> Risk analysis </li>
-    <li> Network trafficking using WireShark </li>
-    <li> Network security auditing using NMAP </li>
+
+CERTIFICATION: Green Belt Six Sigma (2019)
+ 
+###Projects### 
+     Code analysis and review 
+     Threat modeling 
+     Risk analysis 
+     Network trafficking using WireShark 
+     Network security auditing using NMAP 
     
-    <h4> **Experience** </h4>
-    <li> Social & Scientific Systems						                       	  		     Durham, NC	</li>
-     <li> **Laboratory Technician/Support II					                        	        May 2019-Present** </li>
-    <li> Precision Fabric Group | Viking LLC					 		Greensboro, NC | Jamestown, NC </li>
-     <li> **Chemistry QC Tech. III | QC Tech. 						Feb 2014-Apr 2016 | Jul 2013-Jan 2014** </li>
-    <li> Solstas Lab Partners											Greensboro, NC	</li>
-    <li> **LAB TECHNICIAN/ SPECIMEN PROCESSOR						     July 2011-July 2013**</li>
-    </p>
+  ####Experience####
+    Social & Scientific Systems						                       	  		        Durham, NC	
+  **Laboratory Technician/Support II					                        	        May 2019-Present** 
+    Precision Fabric Group | Viking LLC					 		                            Greensboro, NC | Jamestown, NC 
+  **Chemistry QC Tech. III | QC Tech. 					                       	        Feb 2014-Apr 2016 | Jul 2013-Jan 2014** 
+     Solstas Lab Partners											                                  Greensboro, NC	
+  **LAB TECHNICIAN/ SPECIMEN PROCESSOR						                              July 2011-July 2013**
+    
+  #####Skills#####
+  **Security Testing & Software Penetration Testing Tools**: BurpSuite, NMAP, Wireshark, Honeypot, Kali Linux, and WordPress. 
+  **Secure Software Development and Vulnerability Exposure Tools**: Software Development Life Cycle (SDLC), MS Threat Modeling with MS SDL, Visual Code Grepper, and Flawfinder. 
+  **Technical Skills**: Command Line Interface, Powershell,
+  **Administrative Skills**: Microsoft Office Certified, Access Database Certified, SOP writing and review. 
   
-</body>
-</html>
+  ######Coursework######
+Advanced Network Security Applications
+ 
+Computer System Security
+ 
+Digital Communications
+ 
+Microsoft Access Master class
+ 
+Microsoft Excel Beginner to Advanced
+ 
+Principal of Computer Networking
+ 
+Research Methods for Technology Management
+
+  
