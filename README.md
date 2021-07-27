@@ -35,14 +35,14 @@ CERTIFICATION: Green Belt Six Sigma (2019)
      Solstas Lab Partners											                                       Greensboro, NC	
   **LAB TECHNICIAN/ SPECIMEN PROCESSOR						                               July 2011-July 2013**
     
-  #####**Skills**
+  **Skills**
   ----
   **Security Testing & Software Penetration Testing Tools**: BurpSuite, NMAP, Wireshark, Honeypot, Kali Linux, and WordPress. 
   **Secure Software Development and Vulnerability Exposure Tools**: Software Development Life Cycle (SDLC), MS Threat Modeling with MS SDL, Visual Code Grepper, and Flawfinder. 
   **Technical Skills**: Command Line Interface, Powershell,
   **Administrative Skills**: Microsoft Office Certified, Access Database Certified, SOP writing and review. 
-  
-  ######**Coursework**
+ 
+ **Coursework**
   ----
 Advanced Network Security Applications
  
