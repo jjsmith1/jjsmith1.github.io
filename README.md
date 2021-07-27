@@ -1,7 +1,7 @@
 # jjsmith1.github.io
 
 ## Jarricka Smith 
-**1221 Canyon Rock Court, Raleigh, NC, 27610	**
+1221 Canyon Rock Court, Raleigh, NC, 27610	
 **(910) 658-1995| smithjarricka1121@gmail.com **
 [jarricka smith](https://www.linkedin.com/in/jarricka-smith)
 
