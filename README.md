@@ -9,7 +9,7 @@
 [jarricka smith](https://www.linkedin.com/in/jarricka-smith)
 
  **Education**
-----
+__________________________________________________________
 
 North Carolina A&T State University, 						                                     Greensboro, NC 
 B.S. Biology (Cum Laude) 	                  						                              May, 2011
@@ -23,7 +23,7 @@ M.S. Technology Management (Information Technology) Cybersecurity certification 
 CERTIFICATION: Green Belt Six Sigma (2019)
  
 **Projects**
-----
+_____________________________________________________
 
      Code analysis and review 
      Threat modeling 
@@ -32,7 +32,7 @@ CERTIFICATION: Green Belt Six Sigma (2019)
      Network security auditing using NMAP 
     
 **Experience**
-  ----
+  ______________________________________________________________________
   
     Social & Scientific Systems						                       	  		          Durham, NC	
   **Laboratory Technician/Support II					                        	         May 2019-Present** 
@@ -52,7 +52,7 @@ CERTIFICATION: Green Belt Six Sigma (2019)
   **Administrative Skills**: Microsoft Office Certified, Access Database Certified, SOP writing and review. 
  
  **Coursework**
-  ----
+_______________________________________________________
   
 Advanced Network Security Applications
  
