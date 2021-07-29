@@ -1,12 +1,16 @@
 # jjsmith1.github.io
 
 ## Jarricka Smith 
-1221 Canyon Rock Court, Raleigh, NC, 27610	
-**(910) 658-1995| smithjarricka1121@gmail.com **
+
+1221 Canyon Rock Court, Raleigh, NC, 27610
+
+(910) 658-1995| smithjarricka1121@gmail.com 
+
 [jarricka smith](https://www.linkedin.com/in/jarricka-smith)
 
  **Education**
 ----
+
 North Carolina A&T State University, 						                                     Greensboro, NC 
 B.S. Biology (Cum Laude) 	                  						                              May, 2011
 
@@ -20,6 +24,7 @@ CERTIFICATION: Green Belt Six Sigma (2019)
  
 **Projects**
 ----
+
      Code analysis and review 
      Threat modeling 
      Risk analysis 
@@ -28,6 +33,7 @@ CERTIFICATION: Green Belt Six Sigma (2019)
     
 **Experience**
   ----
+  
     Social & Scientific Systems						                       	  		          Durham, NC	
   **Laboratory Technician/Support II					                        	         May 2019-Present** 
   
@@ -39,6 +45,7 @@ CERTIFICATION: Green Belt Six Sigma (2019)
     
   **Skills**
   ----
+  
   **Security Testing & Software Penetration Testing Tools**: BurpSuite, NMAP, Wireshark, Honeypot, Kali Linux, and WordPress. 
   **Secure Software Development and Vulnerability Exposure Tools**: Software Development Life Cycle (SDLC), MS Threat Modeling with MS SDL, Visual Code Grepper, and Flawfinder. 
   **Technical Skills**: Command Line Interface, Powershell,
@@ -46,6 +53,7 @@ CERTIFICATION: Green Belt Six Sigma (2019)
  
  **Coursework**
   ----
+  
 Advanced Network Security Applications
  
 Computer System Security
