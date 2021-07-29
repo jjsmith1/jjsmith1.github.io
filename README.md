@@ -44,7 +44,7 @@ CERTIFICATION: Green Belt Six Sigma (2019)
 
 **Security Testing & Software Penetration Testing Tools**: BurpSuite, NMAP, Wireshark, Honeypot, Kali Linux, and WordPress. 
   **Secure Software Development and Vulnerability Exposure Tools**: Software Development Life Cycle (SDLC), MS Threat Modeling with MS SDL, Visual Code Grepper, and Flawfinder. 
-  **Technical Skills**: Command Line Interface, Powershell,
+  **Technical Skills**: Command Line Interface and Powershell.
   **Administrative Skills**: Microsoft Office Certified, Access Database Certified, SOP writing and review. 
  
  **Coursework**
