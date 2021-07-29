@@ -9,8 +9,7 @@
 [jarricka smith](https://www.linkedin.com/in/jarricka-smith)
 
  **Education**
-__________________________________________________________
-
+ 
 North Carolina A&T State University, 						                                     Greensboro, NC 
 B.S. Biology (Cum Laude) 	                  						                              May, 2011
 
@@ -23,7 +22,6 @@ M.S. Technology Management (Information Technology) Cybersecurity certification 
 CERTIFICATION: Green Belt Six Sigma (2019)
  
 **Projects**
-_____________________________________________________
 
      Code analysis and review 
      Threat modeling 
@@ -32,7 +30,6 @@ _____________________________________________________
      Network security auditing using NMAP 
     
 **Experience**
-  ______________________________________________________________________
   
     Social & Scientific Systems						                       	  		          Durham, NC	
   **Laboratory Technician/Support II					                        	         May 2019-Present** 
@@ -44,16 +41,14 @@ _____________________________________________________
   **LAB TECHNICIAN/ SPECIMEN PROCESSOR						                               July 2011-July 2013**
     
   **Skills**
-  ----
-  
-  **Security Testing & Software Penetration Testing Tools**: BurpSuite, NMAP, Wireshark, Honeypot, Kali Linux, and WordPress. 
+
+**Security Testing & Software Penetration Testing Tools**: BurpSuite, NMAP, Wireshark, Honeypot, Kali Linux, and WordPress. 
   **Secure Software Development and Vulnerability Exposure Tools**: Software Development Life Cycle (SDLC), MS Threat Modeling with MS SDL, Visual Code Grepper, and Flawfinder. 
   **Technical Skills**: Command Line Interface, Powershell,
   **Administrative Skills**: Microsoft Office Certified, Access Database Certified, SOP writing and review. 
  
  **Coursework**
-_______________________________________________________
-  
+
 Advanced Network Security Applications
  
 Computer System Security
